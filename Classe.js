@@ -38,18 +38,3 @@ let meuTriangulo = new Triangulo(10,10)
 console.log(`Área: ${meuTriangulo.area}
 Perímetro: ${meuTriangulo.perimetro}`)
 console.log(meuTriangulo)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
